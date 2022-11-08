@@ -1,4 +1,4 @@
 # Manta-M8P-main-control-board-and-CB1-fan-cooling-rack
 Manta-M8P main control board and CB1 fan cooling rack
-CB1 generates a lot of heat and needs active cooling. The btt team does not have a corresponding stl for the fan, so they designed one by themselves
-https://raw.githubusercontent.com/pcmaomao/Manta-M8P-main-control-board-and-CB1-fan-cooling-rack/main/fan%20cooling%20rack.png
+CB1要产生的stl，需要有效的冷却。btt团队没有给粉丝产生的st，所以自己设计了
+![Image of CB1-fan-cooling-rack](https://raw.githubusercontent.com/pcmaomao/Manta-M8P-main-control-board-and-CB1-fan-cooling-rack/main/fan%20cooling%20rack.png)
